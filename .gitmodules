@@ -1,0 +1,12 @@
+[submodule "mzawadie-storefront"]
+	path = mzawadie-storefront
+	url = https://github.com/Emmanuelmichaelmaro/mzawadie-storefront.git
+	branch = main
+[submodule "mzawadie-dashboard-nextjs"]
+	path = mzawadie-dashboard-nextjs
+	url = https://github.com/Emmanuelmichaelmaro/mzawadie-dashboard-nextjs.git
+	branch = main
+[submodule "mzawadie-backend-django"]
+	path = mzawadie-backend-django
+	url = https://github.com/Emmanuelmichaelmaro/mzawadie-backend-django.git
+	branch = master
